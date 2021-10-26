@@ -1,0 +1,31 @@
+body {
+	font-family: "serif", arial;
+	background-color: #CFECEC;
+	padding-left: 232px;
+}
+
+h1{
+	front-size; 125%
+	color: #FF88BB;
+	letter-spacing: 0.25px;
+}
+p{
+	text-align: justify;
+	color: #F4;
+	margin-left: 15px;
+	border-style: ;
+    border-width: ;
+    border-color: ;
+    }
+table{
+	color: #CFECEC;
+}
+div{
+	background-color: #FD349C;
+	color: #FDEEF4;
+}
+span{
+	background-color: white;
+	color: #E77471;
+	text-shadow: 2px 2px #827839;
+}
