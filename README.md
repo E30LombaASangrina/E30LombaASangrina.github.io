@@ -1,3 +1,1 @@
-Algo bonito ;]
-
-Aquí subirei as miñas páxinas sobre o baixo miño
+Páxina de turismo do Baixo Miño
