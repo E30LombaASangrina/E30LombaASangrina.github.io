@@ -1,0 +1,96 @@
+body {
+	font-family: Tahoma, Verdana, sans-serif;
+	background-color: #CFECEC;
+}
+
+h1{
+	front-size; 125%
+	color: #FF88BB;
+	letter-spacing: 0.25px;
+	text-align: center;
+	padding-right: 5%;
+	padding-left: 5%;
+}
+p{
+	text-align: justify;
+	color: #F4;
+	padding-right: 5%;
+	padding-left: 5%;
+    }
+table, td {
+  border: 5px solid black;
+  border-collapse: initial;
+  border-color: #FFC0CB;
+  background-color: #DDE8FF;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 1%;
+}
+td {
+  padding: 1px;
+  text-align: center;
+  padding-right: 25px;
+  padding-left: 25px;
+}
+
+div{
+	background-color: #FD349C;
+	color: #FDEEF4;
+}
+span{
+	text-shadow: 1px 1px #827839;
+}
+
+.ratio{
+	text-shadow: 1px 1px #827839;
+	text-align: center;
+	font-size: 20px;
+}
+a{
+	margin: auto;
+}
+img{
+	margin: auto;
+	padding: 40px 25px 40px 25px;
+}
+.fin{
+	background-color: #EDD1ED;
+	text-align: center;
+}
+.link{
+	
+}
+.ima { 
+	float: left; 
+	padding: 5%
+}
+
+.sal { 
+	clear: left; 
+}
+
+.gen { 
+	float: right; 
+	padding: 5%
+}
+
+.azucar { 
+	clear: right; 
+}
+li {
+	color: blueviolet;
+	display: inline;
+	padding-right: 2%;
+	padding-left: 2%;
+	margin-left: 8%;
+}
+
+.aagh {
+	text-align: center;
+}
+.dis{
+	text-align: center;
+}
+iframe {
+	margin-bottom: 1%;
+}
